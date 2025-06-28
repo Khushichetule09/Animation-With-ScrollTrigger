@@ -20,5 +20,7 @@ Locomotive-Project 3
 
 Bonus-Project
 
+---
+
 
 🔗 GitHub Repository: https://github.com/Khushichetule09/Animation-With-ScrollTrigger
