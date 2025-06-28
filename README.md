@@ -4,7 +4,7 @@ A collection of creative scroll-based animation projects using GSAP ScrollTrigge
 
 ---
 
-🧩 Includes:
+🧩 Includes Projects:
 
 ScrollTrigger-Basics
 
