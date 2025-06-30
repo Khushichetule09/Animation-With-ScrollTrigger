@@ -24,3 +24,7 @@ Bonus-Project
 
 
 🔗 GitHub Repository: https://github.com/Khushichetule09/Animation-With-ScrollTrigger
+
+---
+
+Feel free to explore the code and contribute to the project!!
